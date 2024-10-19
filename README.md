@@ -14,7 +14,7 @@ Skilled in front-end and back-end technologies, focused on delivering high-quali
 ## 🔭 Currently Exploring
 - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
 - Styling with Tailwind CSS to create modern and responsive user interfaces.
-- Building server-side applications with Django, a powerful Python web framework.
+- Setting up CI/CD pipelines to streamline continuous integration and deployment process
 
 ## 🌱 Intersted in
 - Web3
