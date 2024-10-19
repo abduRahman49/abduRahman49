@@ -10,7 +10,16 @@ Skilled in front-end and back-end technologies, focused on delivering high-quali
 - 📕 Passionate developer who sees hiself as a lifelong learner and eager to grow to be more effective and impactful in his actions
 - 🎯 I have worked as a Session Lead @ Udacity for the Full Stack Web Developer Nanodegree to assist students in the tracks and deliver technical support
 - 🌐 I am collaborative and think that effective team work can produce tremendous results. "Alone we go faster, together we go farther".
-- 🔭 I'm interested in fields such as web3, devops and AI.
+
+## 🔭 Currently Exploring
+- Exploring the ins and outs of React and Redux for dynamic front-end experiences.
+- Styling with Tailwind CSS to create modern and responsive user interfaces.
+- Building server-side applications with Django, a powerful Python web framework.
+
+## 🌱 Intersted in
+- Web3
+- Devops
+- AI
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,django,js,react,docker,redis,js,flask)](https://skillicons.dev)
