@@ -9,7 +9,7 @@ Skilled in front-end and back-end technologies, focused on delivering high-quali
 
 ## 🚀 About Me
 - 📕 Passionate developer who sees hiself as a lifelong learner and eager to grow to be more effective and impactful in his actions
-- 🎯 I have worked as a Session Lead @ Udacity for the [Full Stack Web Developer Nanodegree Program](https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd0044) to assist students in their tracks and provide technical support
+- 🎯 I have worked as a Session Lead @ Udacity for the Full Stack Web Developer Nanodegree Program to assist students in their tracks and provide technical support
 - 🌐 I am collaborative and think that effective team work can produce tremendous results. "Alone we go faster, together we go farther".
 
 ## 🔭 Currently Exploring
