@@ -18,9 +18,12 @@ Skilled in front-end and back-end technologies, focused on delivering high-quali
 - Setting up CI/CD pipelines to streamline continuous integration and deployment process
 
 ## 🌱 Intersted in
-- Web3
+- Software Architecture
+- Backend Development
+- IOT
 - Devops
-- AI
+- Big Data
+- A little of AI ...
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=py,django,flask,js,react,redis,postgres,docker,git)](https://skillicons.dev)
