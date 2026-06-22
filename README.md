@@ -1,7 +1,9 @@
 # Hi there, my name is Abdou 👋
 
-I'm a Full-stack developer with 6 years of experience, passionate about creating scalable applications. 
-Collaborative, detail-oriented, and eager to learn. 
+I'm a computer scientist with 6 years of experience as a Full Stack Developer (specifically) and 10 years of experience in IT (generally).
+My teammates describe me as collaborative, detail-oriented, and with and always eager to learn. 
+I'm passionate about deeply understanding problems, solving them in an effective manner and creating scalable applications that clients strongly adopt. 
+
 Skilled in front-end and back-end technologies, focused on delivering high-quality solutions.
 
 ![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=abduRahman49&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
@@ -13,14 +15,15 @@ Skilled in front-end and back-end technologies, focused on delivering high-quali
 - 🌐 I am collaborative and think that effective team work can produce tremendous results. "Alone we go faster, together we go farther".
 
 ## 🔭 Currently Exploring
-- Exploring the ins and outs of React and Redux for dynamic front-end experiences.
+- Exploring the ins and outs of Embedded software development.
+- Creating dynamic front-end experiences using React and Redux. 
 - Styling with Tailwind CSS to create modern and responsive user interfaces.
 - Setting up CI/CD pipelines to streamline continuous integration and deployment process
 
 ## 🌱 Intersted in
 - Software Architecture
 - Backend Development
-- IOT
+- IOT / Embedded software engineering
 - Devops
 - Big Data
 - A little of AI ...
