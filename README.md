@@ -29,4 +29,4 @@ Skilled in front-end and back-end technologies, focused on delivering high-quali
 - A little of AI ...
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=py,django,flask,js,react,redis,postgres,docker,git,fastapi,kafka)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,django,flask,fastapi,js,react,redis,postgres,kafka,docker,git)](https://skillicons.dev)
