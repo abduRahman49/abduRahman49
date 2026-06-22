@@ -1,6 +1,6 @@
 # Hi there, my name is Abdou 👋
 
-I'm a Full-stack developer with 4 years of experience, passionate about creating scalable applications. 
+I'm a Full-stack developer with 6 years of experience, passionate about creating scalable applications. 
 Collaborative, detail-oriented, and eager to learn. 
 Skilled in front-end and back-end technologies, focused on delivering high-quality solutions.
 
