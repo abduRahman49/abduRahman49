@@ -1,7 +1,7 @@
 # Hi there, my name is Abdou 👋
 
 I'm a computer scientist with 6 years of experience as a Full Stack Developer (specifically) and 10 years of experience in IT (generally).
-My teammates describe me as collaborative, detail-oriented, and with and always eager to learn. 
+My teammates describe me as collaborative, detail-oriented, and always eager to learn. 
 I'm passionate about deeply understanding problems, solving them in an effective manner and creating scalable applications that clients strongly adopt. 
 
 Skilled in front-end and back-end technologies, focused on delivering high-quality solutions.
