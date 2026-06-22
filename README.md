@@ -10,7 +10,7 @@ Skilled in front-end and back-end technologies, focused on delivering high-quali
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abduRahman49&theme=vue-dark&show_icons=true&hide_border=true)](https://git.io/streak-stats)
 
 ## 🚀 About Me
-- 📕 Passionate developer who sees hiself as a lifelong learner and eager to grow to be more effective and impactful in his actions
+- 📕 Passionate developer who sees himself as a lifelong learner and eager to grow to be more effective and impactful in his actions
 - 🎯 I have worked as a Session Lead @ Udacity for the Full Stack Web Developer Nanodegree Program to assist students in their tracks and provide technical support
 - 🌐 I am collaborative and think that effective team work can produce tremendous results. "Alone we go faster, together we go farther".
 
